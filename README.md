@@ -185,4 +185,6 @@ curl http://<LoadBalancer-IP>
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/chrisjchandler/Riffy/blob/main/LICENSE.txt) file for details.
